@@ -233,7 +233,7 @@ if __name__ == "__main__":
 
 ## OUTPUT
 
-![](images/output.png)
+![](images/output.jpg)
 
 ## RESULT
 
