@@ -12,7 +12,7 @@ A vacuum-cleaner world with just two locations.
 ## PEAS DESCRIPTION
 | Agent Type  | Performance Measure | Environment  | Actuators | Sensors |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| Vaccum-Cleaner  | Cleanliness, Number of Movements  | Rooms  | Wheels, suction tool  | Location, Cleanliness |
+| Vaccum-Cleaner  | Cleanliness, Number of Movements  | Rooms  | Steering system , Suction tool  | Location, Cleanliness |
 
 
 
