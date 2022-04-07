@@ -5,9 +5,9 @@
 To find the PEAS description for the given AI problem and develop an AI agent.
 
 ## THEORY
-A vacuum-cleaner world with just two locations.
+A vacuum-cleaner world with 9 locations.
 <br/>Each location can be clean or dirty.
-<br/>The agent can move left or right and can clean the square that it occupies.
+<br/>The agent can move left, right, up, down,and can clean the square that it occupies.
 
 ## PEAS DESCRIPTION
 | Agent Type  | Performance Measure | Environment  | Actuators | Sensors |
