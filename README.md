@@ -286,7 +286,7 @@ if __name__ == "__main__":
 
 ## OUTPUT
 
-![](images/output.jpg)
+![](images/outputs.jpg)
 
 ## RESULT
 
