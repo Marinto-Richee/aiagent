@@ -36,6 +36,12 @@ The agent should detect the location of the robot and suck if the location it is
 The performance is measured with the number of movements and the cleaning action of the agent.
 ## PROGRAM
 ```
+/*
+Name: Marinto Richee J
+Reg. No: 212220230031
+*/
+```
+```
 import random
 
 class Thing:
